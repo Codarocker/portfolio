@@ -20,6 +20,8 @@
 - sklearn.ensemble.RandomForestRegressor
 - sklearn.ensemble.HistGradientBoostingRegressor
 - sklearn.metrics.mean_absolute_error
+- Анализ временных рядов
+- ETL
 
 ## Вывод
 
