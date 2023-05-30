@@ -20,6 +20,8 @@
 - sklearn.metrics.f1_score
 - sklearn.model_selection.GridSearchCV
 - sklearn.pipeline.Pipeline
+- Градиентный бустинг
+- Процессинг естественного языка(NLP)
 
 ## Вывод
 
