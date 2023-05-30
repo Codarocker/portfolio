@@ -13,6 +13,7 @@
 - seaborn
 - scipy
 - matplotlib
+- ETL
 - Проверка гипотез
 - Статистические тесты
 
