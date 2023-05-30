@@ -6,3 +6,21 @@
 
 ## Навыки и технологии
 
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- sklearn.model_selection.GridSearchCV
+- sklearn.model_selection.cross_val_score
+- sklearn.metrics.r2_score
+- sklearn.dummy.DummyRegressor
+- sklearn.metric.make_scorer
+- sklearn.linear_model.LinearRegression
+- sklearn.metrics.mean_squared_error
+- sklearn.ensemble.RandomForestRegressor
+- sklearn.ensemble.HistGradientBoostingRegressor
+- sklearn.metrics.mean_absolute_error
+
+## Вывод
+
+Мы произвели работу по исследованию данных и построения прототипа модели машинного обучения по технологическому процессу золотодобычи для компании. После перебора нескольких вариантов моделей проверки моделей с помощью метода кроссвалидации, лучшие метрики показали модели на основе Градиентного Бустинга как для чернового концентрата, так и для финального. Модели были проверенны на адекватность с помощью DummyRegressor. Итоговая симметричная средняя абсолютная процентная ошибка(sMAPE) составила 8,7 %, что решает поставленную задачу.
